@@ -85,7 +85,7 @@ width: 100%;
 .nav-link {
   font-size: 1.2rem;
   font-family: "Montserrat";
-  font-weight: 100;
+  font-weight: 600;
 }
 
 
@@ -136,6 +136,12 @@ form {
  outline: none;
 }
 
+#op{
+       position: relative;
+    top: 120px;
+
+ 
+}
 
 
 
